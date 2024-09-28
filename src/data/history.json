@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Frontend Developer ",
+    "organisation": "KEY4YOU DECOR",
+    "startDate": "Jan, 2021",
+    "endDate": "July, 2021",
+    "experiences": ["Worked on the Landing Pages", "Reduced load times by 50%"],
+    "imageSrc": "history/3d.png"
+  },
+  {
+    "role": "UI Developer",
+    "organisation": "Meritto Pvt. Ltd.",
+    "startDate": "Feb, 2022",
+    "endDate": "Present",
+    "experiences": ["Implemented responsive design", "Optimized web application performance by integrating advanced JavaScript techniques, enhancing speed by 20%."],
+    "imageSrc": "history/3d.png"
+  }
+]

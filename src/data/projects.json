@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Code Converter",
+    "imageSrc": "projects/project.png",
+    "description": "Enables users to transform code between different programming languages.",
+    "skills": ["HTML", "CSS", "ReactJS","Node","Generative-AI"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "CaratLane Clone",
+    "imageSrc": "projects/project.png",
+    "description": "Dynamic single-page, payment, and add-to-cart functionalities had been put together.",
+    "skills": ["JavaScript", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Real-Time Chat Application",
+    "imageSrc": "projects/project.png",
+    "description": "TReal-time chat applications allow users to exchange messages and communicate in real-time.",
+    "skills": ["React", "Express", "Node","Socket.io"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

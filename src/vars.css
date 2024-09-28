@@ -1,0 +1,18 @@
+:root {
+  /* Colours */
+  --color-text: #fff;
+  --color-primary: #576cbc;
+  --color-secondary: #19376d;
+  --color-dark: #0b2447;
+  --color-bg: #04152d;
+
+  --color-green: #2daa8d;
+  --color-light-green: #72d3bc;
+  --color-dark-blue: #1a2946;
+  --color-medium-gray: #4c5d72;
+  --color-lightest-gray: #9da6b1;
+  --color-light-gray: #646f7d;
+  --inner-shadow: inset 0 -2px 4px #5b91f6, inset 0 1px 15px #282c34;
+  /* Fonts */
+  --font-roboto: "Roboto";
+}
